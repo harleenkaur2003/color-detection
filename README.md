@@ -1,7 +1,7 @@
 # Red Color Image Detection using OpenCV, Matplotlib, and NumPy
 
 # DESCRIPTION:
-This project aimed to detect and highlight red-colored objects in images using libraries such as OpenCV, Matplotlib, and NumPy. 
+This project aimed to detect and highlight red-colored objects in images using libraries such as OpenCV, Matplotlib and NumPy. 
 This was an academic project which was designed to introduce students to practical applications of computer vision.
 
 # CHALLENGES :
@@ -13,7 +13,7 @@ However, the detection was accurate where objects were distinct.
 95% of accuracy in a dataset of 100 images.
  
 # CONCLUSION:
-This project serves the purpose of introduction to image processing .
+This project serves the purpose of introduction to image processing and efficiently filteration of red objects.
 
 
 
