@@ -4,11 +4,9 @@
  Highlights largest red object in the image and highlights it with green ellipse. It's then saved with object 2.jpg
  
 # LIBRARIES:
-Opencv: used for image processing, object detection and contour manipulation
-Numpy: generally used for handling array 
-- in project it was used for creating mask manipulating pixel data
-Matplotlib : generally used for viasulising images and data. 
-- plt.imshow used to display images
+- Opencv: used for image processing, object detection and contour manipulation
+- Numpy: generally used for handling array (in project it was used for creating mask manipulating pixel data)
+- Matplotlib : generally used for viasulising images and data (plt.imshow used to display images)
 
 # Functions & working:
 • Show() : display processed image using matplotlib
