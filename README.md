@@ -32,7 +32,7 @@ However, the detection was accurate where objects were distinct.
 ## EFFECTIVENESS :
 95% of accuracy in a dataset of 100 images.
  
-# CONCLUSION:
+## CONCLUSION:
 This project serves the purpose of introduction to image processing and efficiently filteration of largest among red objects.
 
 
