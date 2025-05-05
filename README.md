@@ -1,14 +1,14 @@
 # Red Color Image Detection using OpenCV, Matplotlib, and NumPy
 
-# AIM:
+## AIM:
  Highlights largest red object in the image and highlights it with green ellipse. It's then saved with object 2.jpg
  
-# LIBRARIES:
+## LIBRARIES:
 - Opencv: used for image processing, object detection and contour manipulation
 - Numpy: generally used for handling array (in project it was used for creating mask manipulating pixel data)
 - Matplotlib : generally used for viasulising images and data (plt.imshow used to display images)
 
-# Functions & working:
+## Functions & working:
 - Show() : display processed image using matplotlib
 - Overlay_mask () : converts binary mask to RGB and overlays it on original image 
 - find_biggest_contour () : find all contours in image and largest one by area. Then draws largest contour on call blank mask
@@ -24,12 +24,12 @@
 - identify largest contour and overlay clean mask.
 - circle largest object within ellipse & then processed image saved as (object name)2.jpg.
 
-# CHALLENGES :
+## CHALLENGES :
 While the project efficiently detected red objects in most images - it faced challenges when multiple red objects were present. 
 This was due to overlapping objects or varying shades of red that made filteration difficult. 
 However, the detection was accurate where objects were distinct.
 
-# EFFECTIVENESS :
+## EFFECTIVENESS :
 95% of accuracy in a dataset of 100 images.
  
 # CONCLUSION:
